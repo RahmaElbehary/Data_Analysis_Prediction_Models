@@ -1,2 +1,2 @@
-# Data_Analysis_Prediction_Models
-These files include Logistic Regression Model, CART model and Random Forest Model
+# Data_Analysis_Models
+These files include Predictin Models, Clustering and Data Visualization. 
